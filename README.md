@@ -1,7 +1,6 @@
 # 💫 About Me:
 안드로이드와 플러터를 이용해 앱을 만들고 있어요.
 
-
 ## 🌐 Socials:
 [![velog](https://img.shields.io/badge/velog-%20C997.svg?logo=velog&logoColor=white)](https://velog.io/@godmin66/posts) 
 
