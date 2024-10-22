@@ -2,8 +2,8 @@
 안드로이드와 플러터를 이용해 앱을 만들고 있어요.
 
 ## 🌐 Socials:
-[![linkedin](https://img.shields.io/badge/linkedin-%0032A0.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A2%85%EB%AF%BC-%EA%B9%80-92243a216/) 
-[![velog](https://img.shields.io/badge/velog-%20C997.svg?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@godmin66/posts) 
+[![linkedin](https://img.shields.io/badge/linkedin-%#0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A2%85%EB%AF%BC-%EA%B9%80-92243a216/)
+
 
 # 💻 Tech Stack:
 ![Android](https://img.shields.io/badge/android-%34A853.svg?style=for-the-badge&logo=android&logoColor=white)
