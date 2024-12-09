@@ -20,10 +20,10 @@
 -->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/spicypunch?pet-id=653984469003919233"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/spicypunch"
+  width="600"
+  height="300"
+/>
 </a>
   
