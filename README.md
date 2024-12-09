@@ -18,3 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=spicypunch&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spicypunch&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/spicypunch?pet-id=1" width="1000" height="120"/>
+</a>
