@@ -19,9 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spicypunch&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 
-<br>
-
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=spicypunch&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/spicypunch"
   width="600"
