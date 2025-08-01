@@ -13,11 +13,13 @@
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-%3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=spicypunch&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=spicypunch&theme=default&hide_border=false)<br/>
+# 📊 Most Used Language:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spicypunch&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<--
+![](https://github-readme-stats.vercel.app/api?username=spicypunch&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=spicypunch&theme=default&hide_border=false)<br/>
+-->
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=spicypunch&utm_content=farm">
 <img
